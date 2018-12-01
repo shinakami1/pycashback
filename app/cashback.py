@@ -1,2 +1,2 @@
 def cashback (amount):
-    result 0
+    return 0
